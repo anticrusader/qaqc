@@ -1,0 +1,70 @@
+2025-10-17 15:05:56,852 - INFO - Found 6 PDF files to process
+2025-10-17 15:05:56,853 - INFO - Processing PDF: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf
+2025-10-17 15:05:56,923 - INFO - Validation passed for L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf
+2025-10-17 15:05:56,923 - INFO - Successfully processed L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf: SUCCESS
+2025-10-17 15:05:56,923 - INFO - Processing PDF: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf
+2025-10-17 15:05:57,073 - INFO - Validation passed for L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf
+2025-10-17 15:05:57,074 - INFO - Successfully processed L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf: SUCCESS
+2025-10-17 15:05:57,074 - INFO - Processing PDF: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf
+2025-10-17 15:05:57,124 - INFO - Validation passed for L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf
+2025-10-17 15:05:57,124 - INFO - Successfully processed L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf: SUCCESS
+2025-10-17 15:05:57,125 - INFO - Processing PDF: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf
+2025-10-17 15:05:57,234 - INFO - Validation passed for L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf
+2025-10-17 15:05:57,234 - INFO - Successfully processed L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 15:05:57,235 - INFO - Processing PDF: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf
+2025-10-17 15:05:57,391 - INFO - Validation passed for L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf
+2025-10-17 15:05:57,391 - INFO - Successfully processed L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 15:05:57,392 - INFO - Processing PDF: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf
+2025-10-17 15:05:58,452 - INFO - Validation passed for L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf
+2025-10-17 15:05:58,452 - INFO - Successfully processed L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf: SUCCESS
+2025-10-17 15:05:58,465 - INFO - Results saved to: pdf_extraction_results_production.csv
+2025-10-17 15:15:39,890 - INFO - Found 6 PDF files to process
+2025-10-17 15:15:39,890 - INFO - Processing PDF: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf
+2025-10-17 15:15:39,953 - WARNING - No revision found in PDF content
+2025-10-17 15:15:39,995 - WARNING - Validation failed for L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf: FAILED - Missing revision
+2025-10-17 15:15:39,995 - INFO - Successfully processed L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf: FAILED - Missing revision
+2025-10-17 15:15:39,995 - INFO - Processing PDF: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf
+2025-10-17 15:15:40,123 - WARNING - No revision found in PDF content
+2025-10-17 15:15:40,210 - WARNING - Drawing number L01-H01D02-WSP-75-XX-MOD-CS-06791 does not match filename L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf
+2025-10-17 15:15:40,211 - WARNING - Validation failed for L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf: FAILED - Missing revision
+2025-10-17 15:15:40,211 - INFO - Successfully processed L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf: FAILED - Missing revision
+2025-10-17 15:15:40,211 - INFO - Processing PDF: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf
+2025-10-17 15:15:40,285 - INFO - Validation passed for L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf
+2025-10-17 15:15:40,285 - INFO - Successfully processed L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf: SUCCESS
+2025-10-17 15:15:40,286 - INFO - Processing PDF: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf
+2025-10-17 15:15:40,451 - INFO - Validation passed for L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf
+2025-10-17 15:15:40,451 - INFO - Successfully processed L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 15:15:40,451 - INFO - Processing PDF: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf
+2025-10-17 15:15:40,657 - INFO - Validation passed for L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf
+2025-10-17 15:15:40,657 - INFO - Successfully processed L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 15:15:40,658 - INFO - Processing PDF: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf
+2025-10-17 15:15:42,282 - INFO - Validation passed for L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf
+2025-10-17 15:15:42,282 - INFO - Successfully processed L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf: SUCCESS
+2025-10-17 15:15:42,294 - INFO - Results saved to: pdf_extraction_results_truly_dynamic.csv
+2025-10-17 15:17:06,845 - INFO - Found 6 PDF files to process
+2025-10-17 15:17:06,846 - INFO - Processing PDF: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf
+2025-10-17 15:17:06,939 - INFO - Validation passed for L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf
+2025-10-17 15:17:06,940 - INFO - Successfully processed L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf: SUCCESS
+2025-10-17 15:17:06,940 - INFO - Processing PDF: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf
+2025-10-17 15:17:07,149 - WARNING - Drawing number L01-H01D02-WSP-75-XX-MOD-CS-06791 does not match filename L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf
+2025-10-17 15:17:07,149 - INFO - Validation passed for L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf
+2025-10-17 15:17:07,149 - INFO - Successfully processed L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf: SUCCESS
+2025-10-17 15:17:07,150 - INFO - Processing PDF: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf
+2025-10-17 15:17:07,224 - INFO - Validation passed for L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf
+2025-10-17 15:17:07,225 - INFO - Successfully processed L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf: SUCCESS
+2025-10-17 15:17:07,225 - INFO - Processing PDF: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf
+2025-10-17 15:17:07,386 - INFO - Validation passed for L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf
+2025-10-17 15:17:07,386 - INFO - Successfully processed L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 15:17:07,386 - INFO - Processing PDF: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf
+2025-10-17 15:17:07,605 - INFO - Validation passed for L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf
+2025-10-17 15:17:07,605 - INFO - Successfully processed L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 15:17:07,605 - INFO - Processing PDF: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf
+2025-10-17 15:17:09,261 - INFO - Validation passed for L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf
+2025-10-17 15:17:09,262 - INFO - Successfully processed L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf: SUCCESS
+2025-10-17 15:17:09,273 - INFO - Results saved to: pdf_extraction_results_truly_dynamic.csv
+2025-10-17 15:28:58,962 - INFO - Processing PDF: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf
+2025-10-17 15:28:59,077 - INFO - Processing PDF: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf
+2025-10-17 15:28:59,340 - INFO - Processing PDF: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf
+2025-10-17 15:28:59,436 - INFO - Processing PDF: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf
+2025-10-17 15:28:59,637 - INFO - Processing PDF: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf
+2025-10-17 15:28:59,890 - INFO - Processing PDF: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf

@@ -1,0 +1,291 @@
+2025-10-17 16:19:37,718 - INFO - Found 6 PDF files to process
+2025-10-17 16:19:37,718 - INFO - Processing PDF: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf
+2025-10-17 16:19:37,718 - INFO - Looking for Excel file: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].xlsx
+2025-10-17 16:19:37,728 - INFO - Excel data read - Document: 'L01-H01D01-FOS-00-XX-MUP-AR-80050', Revision: 'T0', Title: 'Mockup External Wall Systems Typical Façade Section Details MEP Door Details'
+2025-10-17 16:19:37,780 - WARNING - Text 'Mockup External Wall Systems Typical Façade Section Details MEP Door Details' not found in PDF content
+2025-10-17 16:19:37,797 - INFO - Revision 'T0' validated in PDF history table
+2025-10-17 16:19:37,817 - INFO - Processing complete for L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf: FAILED - Title not found in PDF
+2025-10-17 16:19:37,817 - INFO - Processing PDF: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf
+2025-10-17 16:19:37,818 - INFO - Looking for Excel file: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].xlsx
+2025-10-17 16:19:37,825 - INFO - Excel data read - Document: 'L01-H01D02-WSP-75-XX-MUP-IC-80301', Revision: 'T1', Title: 'Mock-up Room GRMS Layout'
+2025-10-17 16:19:37,956 - WARNING - Text 'Mock-up Room GRMS Layout' not found in PDF content
+2025-10-17 16:19:38,002 - INFO - Revision 'T1' validated in PDF history table
+2025-10-17 16:19:38,046 - INFO - Processing complete for L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf: FAILED - Title not found in PDF
+2025-10-17 16:19:38,046 - INFO - Processing PDF: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf
+2025-10-17 16:19:38,046 - INFO - Looking for Excel file: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].xlsx
+2025-10-17 16:19:38,057 - INFO - Excel data read - Document: 'L02-R02D01-FOS-00-XX-DWG-AR-00001', Revision: '7', Title: 'Technical and Project Information Cover Sheet'
+2025-10-17 16:19:38,107 - WARNING - Text 'Technical and Project Information Cover Sheet' not found in PDF content
+2025-10-17 16:19:38,122 - INFO - Revision '7' validated in PDF history table
+2025-10-17 16:19:38,136 - INFO - Processing complete for L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf: FAILED - Title not found in PDF
+2025-10-17 16:19:38,137 - INFO - Processing PDF: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf
+2025-10-17 16:19:38,137 - INFO - Looking for Excel file: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.xlsx
+2025-10-17 16:19:38,146 - INFO - Excel data read - Document: 'L02-R02DXX-RSG-00-ZZ-SKT-LS-12801', Revision: 'N0', Title: 'Pool Enlargement Plan'
+2025-10-17 16:19:38,280 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 16:19:38,312 - INFO - Processing complete for L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 16:19:38,312 - INFO - Processing PDF: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf
+2025-10-17 16:19:38,312 - INFO - Looking for Excel file: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.xlsx
+2025-10-17 16:19:38,321 - INFO - Excel data read - Document: 'L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435', Revision: 'N0', Title: 'Grading and Drainage Plan 19/34'
+2025-10-17 16:19:38,504 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 16:19:38,544 - INFO - Processing complete for L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 16:19:38,544 - INFO - Processing PDF: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf
+2025-10-17 16:19:38,544 - INFO - Looking for Excel file: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].xlsx
+2025-10-17 16:19:38,553 - INFO - Excel data read - Document: 'L04-A04D02-CHP-16-00-DWG-SP-10001', Revision: 'N0', Title: 'Main Pool Piping & Conduit Overall Layout'
+2025-10-17 16:19:39,947 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 16:19:40,260 - INFO - Processing complete for L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf: SUCCESS
+2025-10-17 16:19:40,273 - INFO - Results saved to: pdf_extraction_results_excel_based.csv
+2025-10-17 16:21:54,692 - INFO - Found 6 PDF files to process
+2025-10-17 16:21:54,692 - INFO - Processing PDF: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf
+2025-10-17 16:21:54,693 - INFO - Looking for Excel file: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].xlsx
+2025-10-17 16:21:54,703 - INFO - Excel data read - Document: 'L01-H01D01-FOS-00-XX-MUP-AR-80050', Revision: 'T0', Title: 'Mockup External Wall Systems Typical Façade Section Details MEP Door Details'
+2025-10-17 16:21:54,773 - INFO - Revision 'T0' validated in PDF history table
+2025-10-17 16:21:54,790 - INFO - Processing complete for L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf: SUCCESS
+2025-10-17 16:21:54,790 - INFO - Processing PDF: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf
+2025-10-17 16:21:54,790 - INFO - Looking for Excel file: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].xlsx
+2025-10-17 16:21:54,800 - INFO - Excel data read - Document: 'L01-H01D02-WSP-75-XX-MUP-IC-80301', Revision: 'T1', Title: 'Mock-up Room GRMS Layout'
+2025-10-17 16:21:54,965 - INFO - Revision 'T1' validated in PDF history table
+2025-10-17 16:21:55,009 - INFO - Processing complete for L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf: SUCCESS
+2025-10-17 16:21:55,009 - INFO - Processing PDF: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf
+2025-10-17 16:21:55,009 - INFO - Looking for Excel file: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].xlsx
+2025-10-17 16:21:55,020 - INFO - Excel data read - Document: 'L02-R02D01-FOS-00-XX-DWG-AR-00001', Revision: '7', Title: 'Technical and Project Information Cover Sheet'
+2025-10-17 16:21:55,081 - INFO - Revision '7' validated in PDF history table
+2025-10-17 16:21:55,096 - INFO - Processing complete for L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf: SUCCESS
+2025-10-17 16:21:55,096 - INFO - Processing PDF: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf
+2025-10-17 16:21:55,097 - INFO - Looking for Excel file: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.xlsx
+2025-10-17 16:21:55,105 - INFO - Excel data read - Document: 'L02-R02DXX-RSG-00-ZZ-SKT-LS-12801', Revision: 'N0', Title: 'Pool Enlargement Plan'
+2025-10-17 16:21:55,238 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 16:21:55,270 - INFO - Processing complete for L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 16:21:55,270 - INFO - Processing PDF: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf
+2025-10-17 16:21:55,270 - INFO - Looking for Excel file: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.xlsx
+2025-10-17 16:21:55,278 - INFO - Excel data read - Document: 'L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435', Revision: 'N0', Title: 'Grading and Drainage Plan 19/34'
+2025-10-17 16:21:55,449 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 16:21:55,484 - INFO - Processing complete for L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 16:21:55,485 - INFO - Processing PDF: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf
+2025-10-17 16:21:55,485 - INFO - Looking for Excel file: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].xlsx
+2025-10-17 16:21:55,494 - INFO - Excel data read - Document: 'L04-A04D02-CHP-16-00-DWG-SP-10001', Revision: 'N0', Title: 'Main Pool Piping & Conduit Overall Layout'
+2025-10-17 16:21:56,781 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 16:21:57,105 - INFO - Processing complete for L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf: SUCCESS
+2025-10-17 16:21:57,120 - INFO - Results saved to: pdf_extraction_results_excel_based.csv
+2025-10-17 16:25:26,291 - INFO - Found 6 PDF files to process
+2025-10-17 16:25:26,291 - INFO - Processing PDF: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf
+2025-10-17 16:25:26,291 - INFO - Looking for Excel file: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].xlsx
+2025-10-17 16:25:26,302 - INFO - Excel data read - Document: 'L01-H01D01-FOS-00-XX-MUP-AR-80050', Revision: 'T0', Title: 'Mockup External Wall Systems Typical Façade Section Details MEP Door Details'
+2025-10-17 16:25:26,373 - INFO - Revision 'T0' validated in PDF history table
+2025-10-17 16:25:26,390 - INFO - Processing complete for L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf: SUCCESS
+2025-10-17 16:25:26,390 - INFO - Processing PDF: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf
+2025-10-17 16:25:26,390 - INFO - Looking for Excel file: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].xlsx
+2025-10-17 16:25:26,399 - INFO - Excel data read - Document: 'L01-H01D02-WSP-75-XX-MUP-IC-80301', Revision: 'T1', Title: 'Mock-up Room GRMS Layout'
+2025-10-17 16:25:26,566 - INFO - Revision 'T1' validated in PDF history table
+2025-10-17 16:25:26,609 - INFO - Processing complete for L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf: SUCCESS
+2025-10-17 16:25:26,609 - INFO - Processing PDF: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf
+2025-10-17 16:25:26,609 - INFO - Looking for Excel file: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].xlsx
+2025-10-17 16:25:26,618 - INFO - Excel data read - Document: 'L02-R02D01-FOS-00-XX-DWG-AR-00001', Revision: '07', Title: 'Technical and Project Information Cover Sheet'
+2025-10-17 16:25:26,677 - INFO - Revision '07' validated in PDF history table
+2025-10-17 16:25:26,691 - INFO - Processing complete for L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf: SUCCESS
+2025-10-17 16:25:26,691 - INFO - Processing PDF: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf
+2025-10-17 16:25:26,691 - INFO - Looking for Excel file: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.xlsx
+2025-10-17 16:25:26,701 - INFO - Excel data read - Document: 'L02-R02DXX-RSG-00-ZZ-SKT-LS-12801', Revision: 'N0', Title: 'Pool Enlargement Plan'
+2025-10-17 16:25:26,836 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 16:25:26,868 - INFO - Processing complete for L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 16:25:26,868 - INFO - Processing PDF: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf
+2025-10-17 16:25:26,869 - INFO - Looking for Excel file: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.xlsx
+2025-10-17 16:25:26,877 - INFO - Excel data read - Document: 'L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435', Revision: 'N0', Title: 'Grading and Drainage Plan 19/34'
+2025-10-17 16:25:27,065 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 16:25:27,102 - INFO - Processing complete for L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 16:25:27,103 - INFO - Processing PDF: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf
+2025-10-17 16:25:27,103 - INFO - Looking for Excel file: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].xlsx
+2025-10-17 16:25:27,111 - INFO - Excel data read - Document: 'L04-A04D02-CHP-16-00-DWG-SP-10001', Revision: 'N0', Title: 'Main Pool Piping & Conduit Overall Layout'
+2025-10-17 16:25:28,404 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 16:25:28,748 - INFO - Processing complete for L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf: SUCCESS
+2025-10-17 16:25:28,759 - INFO - Results saved to: pdf_extraction_results_excel_based.csv
+2025-10-17 16:29:14,029 - INFO - Found 6 PDF files to process
+2025-10-17 16:29:14,030 - INFO - Processing PDF: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf
+2025-10-17 16:29:14,030 - INFO - Looking for Excel file: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].xlsx
+2025-10-17 16:29:14,039 - INFO - Excel data read - Document: 'L01-H01D01-FOS-00-XX-MUP-AR-80050', Revision: 'T0', Title: 'Mockup External Wall Systems Typical Façade Section Details MEP Door Details'
+2025-10-17 16:29:14,115 - INFO - Revision 'T0' validated in PDF history table
+2025-10-17 16:29:14,132 - INFO - Processing complete for L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf: SUCCESS
+2025-10-17 16:29:14,132 - INFO - Processing PDF: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf
+2025-10-17 16:29:14,133 - INFO - Looking for Excel file: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].xlsx
+2025-10-17 16:29:14,141 - INFO - Excel data read - Document: 'L01-H01D02-WSP-75-XX-MUP-IC-80301', Revision: 'T1', Title: 'Mock-up Room GRMS Layout'
+2025-10-17 16:29:14,296 - INFO - Revision 'T1' validated in PDF history table
+2025-10-17 16:29:14,338 - INFO - Processing complete for L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf: SUCCESS
+2025-10-17 16:29:14,338 - INFO - Processing PDF: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf
+2025-10-17 16:29:14,338 - INFO - Looking for Excel file: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].xlsx
+2025-10-17 16:29:14,346 - INFO - Excel data read - Document: 'L02-R02D01-FOS-00-XX-DWG-AR-00001', Revision: '08', Title: 'Technical and Project Information Cover Sheet'
+2025-10-17 16:29:14,379 - WARNING - Text '08' not found in PDF content
+2025-10-17 16:29:14,406 - WARNING - Revision '08' not found in PDF history table
+2025-10-17 16:29:14,420 - INFO - Processing complete for L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf: FAILED - Revision not found in PDF; Revision not found in history table
+2025-10-17 16:29:14,420 - INFO - Processing PDF: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf
+2025-10-17 16:29:14,421 - INFO - Looking for Excel file: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.xlsx
+2025-10-17 16:29:14,431 - INFO - Excel data read - Document: 'L02-R02DXX-RSG-00-ZZ-SKT-LS-12801', Revision: 'N0', Title: 'Pool Enlargement Plan'
+2025-10-17 16:29:14,560 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 16:29:14,592 - INFO - Processing complete for L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 16:29:14,592 - INFO - Processing PDF: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf
+2025-10-17 16:29:14,593 - INFO - Looking for Excel file: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.xlsx
+2025-10-17 16:29:14,600 - INFO - Excel data read - Document: 'L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435', Revision: 'N0', Title: 'Grading and Drainage Plan 19/34'
+2025-10-17 16:29:14,764 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 16:29:14,798 - INFO - Processing complete for L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 16:29:14,799 - INFO - Processing PDF: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf
+2025-10-17 16:29:14,799 - INFO - Looking for Excel file: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].xlsx
+2025-10-17 16:29:14,807 - INFO - Excel data read - Document: 'L04-A04D02-CHP-16-00-DWG-SP-10001', Revision: 'N0', Title: 'Main Pool Piping & Conduit Overall Layout'
+2025-10-17 16:29:16,020 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 16:29:16,315 - INFO - Processing complete for L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf: SUCCESS
+2025-10-17 16:29:16,325 - INFO - Results saved to: pdf_extraction_results_excel_based.csv
+2025-10-17 16:29:48,577 - INFO - Found 6 PDF files to process
+2025-10-17 16:29:48,577 - INFO - Processing PDF: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf
+2025-10-17 16:29:48,577 - INFO - Looking for Excel file: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].xlsx
+2025-10-17 16:29:48,587 - INFO - Excel data read - Document: 'L01-H01D01-FOS-00-XX-MUP-AR-80050', Revision: 'T0', Title: 'Mockup External Wall Systems Typical Façade Section Details MEP Door Details'
+2025-10-17 16:29:48,661 - INFO - Revision 'T0' validated in PDF history table
+2025-10-17 16:29:48,681 - INFO - Processing complete for L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf: SUCCESS
+2025-10-17 16:29:48,681 - INFO - Processing PDF: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf
+2025-10-17 16:29:48,681 - INFO - Looking for Excel file: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].xlsx
+2025-10-17 16:29:48,691 - INFO - Excel data read - Document: 'L01-H01D02-WSP-75-XX-MUP-IC-80301', Revision: 'T1', Title: 'Mock-up Room GRMS Layout'
+2025-10-17 16:29:48,860 - INFO - Revision 'T1' validated in PDF history table
+2025-10-17 16:29:48,901 - INFO - Processing complete for L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf: SUCCESS
+2025-10-17 16:29:48,901 - INFO - Processing PDF: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf
+2025-10-17 16:29:48,902 - INFO - Looking for Excel file: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].xlsx
+2025-10-17 16:29:48,910 - INFO - Excel data read - Document: 'L02-R02D01-FOS-00-XX-DWG-AR-00001', Revision: '07', Title: 'Technical and Project Information Cover Sheet'
+2025-10-17 16:29:48,971 - INFO - Revision '07' validated in PDF history table
+2025-10-17 16:29:48,986 - INFO - Processing complete for L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf: SUCCESS
+2025-10-17 16:29:48,986 - INFO - Processing PDF: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf
+2025-10-17 16:29:48,986 - INFO - Looking for Excel file: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.xlsx
+2025-10-17 16:29:48,994 - INFO - Excel data read - Document: 'L02-R02DXX-RSG-00-ZZ-SKT-LS-12801', Revision: 'N0', Title: 'Pool Enlargement Plan'
+2025-10-17 16:29:49,126 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 16:29:49,158 - INFO - Processing complete for L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 16:29:49,159 - INFO - Processing PDF: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf
+2025-10-17 16:29:49,159 - INFO - Looking for Excel file: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.xlsx
+2025-10-17 16:29:49,168 - INFO - Excel data read - Document: 'L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435', Revision: 'N0', Title: 'Grading and Drainage Plan 19/34'
+2025-10-17 16:29:49,345 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 16:29:49,383 - INFO - Processing complete for L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 16:29:49,384 - INFO - Processing PDF: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf
+2025-10-17 16:29:49,384 - INFO - Looking for Excel file: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].xlsx
+2025-10-17 16:29:49,392 - INFO - Excel data read - Document: 'L04-A04D02-CHP-16-00-DWG-SP-10001', Revision: 'N0', Title: 'Main Pool Piping & Conduit Overall Layout'
+2025-10-17 16:29:50,607 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 16:29:50,917 - INFO - Processing complete for L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf: SUCCESS
+2025-10-17 16:29:50,927 - INFO - Results saved to: pdf_extraction_results_excel_based.csv
+2025-10-17 17:03:57,836 - INFO - Found 6 PDF files to process
+2025-10-17 17:03:57,836 - INFO - Processing PDF: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf
+2025-10-17 17:03:57,836 - INFO - Looking for Excel file: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].xlsx
+2025-10-17 17:03:57,847 - INFO - Excel data read - Document: 'L01-H01D01-FOS-00-XX-MUP-AR-80050', Revision: 'T0', Title: 'Mockup External Wall Systems Typical Façade Section Details MEP Door Details'
+2025-10-17 17:03:57,920 - INFO - Revision 'T0' validated in PDF history table
+2025-10-17 17:03:57,938 - INFO - Processing complete for L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf: SUCCESS
+2025-10-17 17:03:57,939 - INFO - Processing PDF: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf
+2025-10-17 17:03:57,939 - INFO - Looking for Excel file: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].xlsx
+2025-10-17 17:03:57,948 - INFO - Excel data read - Document: 'L01-H01D02-WSP-75-XX-MUP-IC-80301', Revision: 'T1', Title: 'Mock-up Room GRMS Layout'
+2025-10-17 17:03:58,131 - INFO - Revision 'T1' validated in PDF history table
+2025-10-17 17:03:58,171 - INFO - Processing complete for L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf: SUCCESS
+2025-10-17 17:03:58,172 - INFO - Processing PDF: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf
+2025-10-17 17:03:58,172 - INFO - Looking for Excel file: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].xlsx
+2025-10-17 17:03:58,179 - INFO - Excel data read - Document: 'L02-R02D01-FOS-00-XX-DWG-AR-00001', Revision: '07', Title: 'Technical and Project Information Cover Sheet'
+2025-10-17 17:03:58,239 - INFO - Revision '07' validated in PDF history table
+2025-10-17 17:03:58,255 - INFO - Processing complete for L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf: SUCCESS
+2025-10-17 17:03:58,255 - INFO - Processing PDF: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf
+2025-10-17 17:03:58,255 - INFO - Looking for Excel file: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.xlsx
+2025-10-17 17:03:58,263 - INFO - Excel data read - Document: 'L02-R02DXX-RSG-00-ZZ-SKT-LS-12801', Revision: 'N0', Title: 'Pool Enlargement Plan'
+2025-10-17 17:03:58,390 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 17:03:58,423 - INFO - Processing complete for L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 17:03:58,424 - INFO - Processing PDF: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf
+2025-10-17 17:03:58,424 - INFO - Looking for Excel file: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.xlsx
+2025-10-17 17:03:58,434 - INFO - Excel data read - Document: 'L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435', Revision: 'N0', Title: 'Grading and Drainage Plan 19/34'
+2025-10-17 17:03:58,617 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 17:03:58,653 - INFO - Processing complete for L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 17:03:58,653 - INFO - Processing PDF: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf
+2025-10-17 17:03:58,653 - INFO - Looking for Excel file: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].xlsx
+2025-10-17 17:03:58,662 - INFO - Excel data read - Document: 'L04-A04D02-CHP-16-00-DWG-SP-10001', Revision: 'N0', Title: 'Main Pool Piping & Conduit Overall Layout'
+2025-10-17 17:03:59,985 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 17:04:00,324 - INFO - Processing complete for L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf: SUCCESS
+2025-10-17 17:04:49,411 - INFO - Found 6 PDF files to process
+2025-10-17 17:04:49,411 - INFO - Processing PDF: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf
+2025-10-17 17:04:49,411 - INFO - Looking for Excel file: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].xlsx
+2025-10-17 17:04:49,420 - INFO - Excel data read - Document: 'L01-H01D01-FOS-00-XX-MUP-AR-80050', Revision: 'T0', Title: 'Mockup External Wall Systems Typical Façade Section Details MEP Door Details'
+2025-10-17 17:04:49,496 - INFO - Revision 'T0' validated in PDF history table
+2025-10-17 17:04:49,514 - INFO - Processing complete for L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf: SUCCESS
+2025-10-17 17:04:49,514 - INFO - Processing PDF: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf
+2025-10-17 17:04:49,515 - INFO - Looking for Excel file: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].xlsx
+2025-10-17 17:04:49,523 - INFO - Excel data read - Document: 'L01-H01D02-WSP-75-XX-MUP-IC-80301', Revision: 'T1', Title: 'Mock-up Room GRMS Layout'
+2025-10-17 17:04:49,713 - INFO - Revision 'T1' validated in PDF history table
+2025-10-17 17:04:49,757 - INFO - Processing complete for L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf: SUCCESS
+2025-10-17 17:04:49,758 - INFO - Processing PDF: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf
+2025-10-17 17:04:49,758 - INFO - Looking for Excel file: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].xlsx
+2025-10-17 17:04:49,767 - INFO - Excel data read - Document: 'L02-R02D01-FOS-00-XX-DWG-AR-00001', Revision: '07', Title: 'Technical and Project Information Cover Sheet'
+2025-10-17 17:04:49,827 - INFO - Revision '07' validated in PDF history table
+2025-10-17 17:04:49,843 - INFO - Processing complete for L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf: SUCCESS
+2025-10-17 17:04:49,843 - INFO - Processing PDF: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf
+2025-10-17 17:04:49,843 - INFO - Looking for Excel file: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.xlsx
+2025-10-17 17:04:49,852 - INFO - Excel data read - Document: 'L02-R02DXX-RSG-00-ZZ-SKT-LS-12801', Revision: 'N0', Title: 'Pool Enlargement Plan'
+2025-10-17 17:04:49,990 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 17:04:50,029 - INFO - Processing complete for L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 17:04:50,029 - INFO - Processing PDF: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf
+2025-10-17 17:04:50,029 - INFO - Looking for Excel file: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.xlsx
+2025-10-17 17:04:50,039 - INFO - Excel data read - Document: 'L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435', Revision: 'N0', Title: 'Grading and Drainage Plan 19/34'
+2025-10-17 17:04:50,233 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 17:04:50,273 - INFO - Processing complete for L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 17:04:50,273 - INFO - Processing PDF: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf
+2025-10-17 17:04:50,273 - INFO - Looking for Excel file: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].xlsx
+2025-10-17 17:04:50,283 - INFO - Excel data read - Document: 'L04-A04D02-CHP-16-00-DWG-SP-10001', Revision: 'N0', Title: 'Main Pool Piping & Conduit Overall Layout'
+2025-10-17 17:04:51,688 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 17:04:52,036 - INFO - Processing complete for L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf: SUCCESS
+2025-10-17 17:04:52,048 - INFO - Results saved to: pdf_extraction_results_excel_based_fixed.csv
+2025-10-17 17:08:48,662 - INFO - Found 6 PDF files to process
+2025-10-17 17:08:48,662 - INFO - Processing PDF: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf
+2025-10-17 17:08:48,662 - INFO - Looking for Excel file: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].xlsx
+2025-10-17 17:08:48,673 - INFO - Excel data read - Document: 'L01-H01D01-FOS-00-XX-MUP-AR-80050', Revision: 'T0', Title: 'Mockup External Wall Systems Typical Façade Section Details MEP Door Details'
+2025-10-17 17:08:48,748 - INFO - Revision 'T0' validated in PDF history table
+2025-10-17 17:08:48,765 - INFO - Processing complete for L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf: SUCCESS
+2025-10-17 17:08:48,766 - INFO - Processing PDF: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf
+2025-10-17 17:08:48,766 - INFO - Looking for Excel file: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].xlsx
+2025-10-17 17:08:48,775 - INFO - Excel data read - Document: 'L01-H01D02-WSP-75-XX-MUP-IC-80301', Revision: 'T1', Title: 'Mock-up Room GRMS Layout'
+2025-10-17 17:08:48,942 - INFO - Revision 'T1' validated in PDF history table
+2025-10-17 17:08:48,984 - INFO - Processing complete for L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf: SUCCESS
+2025-10-17 17:08:48,984 - INFO - Processing PDF: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf
+2025-10-17 17:08:48,984 - INFO - Looking for Excel file: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].xlsx
+2025-10-17 17:08:48,992 - INFO - Excel data read - Document: 'L02-R02D01-FOS-00-XX-DWG-AR-00001', Revision: '07', Title: 'Technical and Project Information Cover Sheet'
+2025-10-17 17:08:49,052 - INFO - Revision '07' validated in PDF history table
+2025-10-17 17:08:49,067 - INFO - Processing complete for L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf: SUCCESS
+2025-10-17 17:08:49,067 - INFO - Processing PDF: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf
+2025-10-17 17:08:49,067 - INFO - Looking for Excel file: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.xlsx
+2025-10-17 17:08:49,074 - INFO - Excel data read - Document: 'L02-R02DXX-RSG-00-ZZ-SKT-LS-12801', Revision: 'N0', Title: 'Pool Enlargement Plan'
+2025-10-17 17:08:49,209 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 17:08:49,242 - INFO - Processing complete for L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 17:08:49,242 - INFO - Processing PDF: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf
+2025-10-17 17:08:49,243 - INFO - Looking for Excel file: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.xlsx
+2025-10-17 17:08:49,253 - INFO - Excel data read - Document: 'L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435', Revision: 'N0', Title: 'Grading and Drainage Plan 19/34'
+2025-10-17 17:08:49,427 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 17:08:49,461 - INFO - Processing complete for L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 17:08:49,461 - INFO - Processing PDF: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf
+2025-10-17 17:08:49,461 - INFO - Looking for Excel file: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].xlsx
+2025-10-17 17:08:49,469 - INFO - Excel data read - Document: 'L04-A04D02-CHP-16-00-DWG-SP-10001', Revision: 'N0', Title: 'Main Pool Piping & Conduit Overall Layout'
+2025-10-17 17:08:50,778 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 17:08:51,110 - INFO - Processing complete for L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf: SUCCESS
+2025-10-17 17:08:51,133 - INFO - Results saved to: pdf_extraction_results_excel_based_fixed.csv with UTF-8-sig encoding
+2025-10-17 17:13:57,375 - INFO - Found 6 PDF files to process
+2025-10-17 17:13:57,375 - INFO - Processing PDF: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf
+2025-10-17 17:13:57,375 - INFO - Looking for Excel file: L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].xlsx
+2025-10-17 17:13:57,386 - INFO - Excel data read - Document: 'L01-H01D01-FOS-00-XX-MUP-AR-80050', Revision: 'T0', Title: 'Mockup External Wall Systems Typical Façade Section Details MEP Door Details'
+2025-10-17 17:13:57,461 - INFO - Revision 'T0' validated in PDF history table
+2025-10-17 17:13:57,479 - INFO - Processing complete for L01-H01D01-FOS-00-XX-MUP-AR-80050[T0].pdf: SUCCESS
+2025-10-17 17:13:57,479 - INFO - Processing PDF: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf
+2025-10-17 17:13:57,479 - INFO - Looking for Excel file: L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].xlsx
+2025-10-17 17:13:57,489 - INFO - Excel data read - Document: 'L01-H01D02-WSP-75-XX-MUP-IC-80301', Revision: 'T1', Title: 'Mock-up Room GRMS Layout'
+2025-10-17 17:13:57,660 - INFO - Revision 'T1' validated in PDF history table
+2025-10-17 17:13:57,702 - INFO - Processing complete for L01-H01D02-WSP-75-XX-MUP-IC-80301[T1].pdf: SUCCESS
+2025-10-17 17:13:57,703 - INFO - Processing PDF: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf
+2025-10-17 17:13:57,703 - INFO - Looking for Excel file: L02-R02D01-FOS-00-XX-DWG-AR-00001[07].xlsx
+2025-10-17 17:13:57,711 - INFO - Excel data read - Document: 'L02-R02D01-FOS-00-XX-DWG-AR-00001', Revision: '07', Title: 'Technical and Project Information Cover Sheet'
+2025-10-17 17:13:57,771 - INFO - Revision '07' validated in PDF history table
+2025-10-17 17:13:57,787 - INFO - Processing complete for L02-R02D01-FOS-00-XX-DWG-AR-00001[07].pdf: SUCCESS
+2025-10-17 17:13:57,787 - INFO - Processing PDF: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf
+2025-10-17 17:13:57,787 - INFO - Looking for Excel file: L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.xlsx
+2025-10-17 17:13:57,795 - INFO - Excel data read - Document: 'L02-R02DXX-RSG-00-ZZ-SKT-LS-12801', Revision: 'N0', Title: 'Pool Enlargement Plan'
+2025-10-17 17:13:57,926 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 17:13:57,959 - INFO - Processing complete for L02-R02DXX-RSG-00-ZZ-SKT-LS-12801[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 17:13:57,960 - INFO - Processing PDF: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf
+2025-10-17 17:13:57,960 - INFO - Looking for Excel file: L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.xlsx
+2025-10-17 17:13:57,968 - INFO - Excel data read - Document: 'L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435', Revision: 'N0', Title: 'Grading and Drainage Plan 19/34'
+2025-10-17 17:13:58,156 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 17:13:58,193 - INFO - Processing complete for L02-R02DXX-RSG-BN-ZZ-SKT-LS-11435[N0] - Sample Sketch.pdf: SUCCESS
+2025-10-17 17:13:58,193 - INFO - Processing PDF: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf
+2025-10-17 17:13:58,193 - INFO - Looking for Excel file: L04-A04D02-CHP-16-00-DWG-SP-10001[N0].xlsx
+2025-10-17 17:13:58,202 - INFO - Excel data read - Document: 'L04-A04D02-CHP-16-00-DWG-SP-10001', Revision: 'N0', Title: 'Main Pool Piping & Conduit Overall Layout'
+2025-10-17 17:13:59,522 - INFO - Revision 'N0' validated in PDF history table
+2025-10-17 17:13:59,870 - INFO - Processing complete for L04-A04D02-CHP-16-00-DWG-SP-10001[N0].pdf: SUCCESS
+2025-10-17 17:13:59,883 - INFO - Results saved to: pdf_extraction_results_excel_based_fixed.csv with UTF-8-sig encoding
